@@ -57,6 +57,8 @@ public class ScaryMaze extends JPanel implements Runnable, MouseMotionListener {
 		int mouseColor = maze.getRGB(mouseX, mouseY);	
 		
 		//4. Print the mouseColor variable (Hint: use syso)
+		System.out.println(mouseColor);
+
 		
 		//5.  Run your program and move your mouse over the START COLOR. A number will be printed to the console
 		

@@ -3,9 +3,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Greeter",
+            "name": "AwesomeOrNot",
             "request": "launch",
-            "mainClass": "_03_print_and_popups._1_greeter.Greeter",
+            "mainClass": "_03_print_and_popups._5_awesome_or_not.AwesomeOrNot",
             "projectName": "Level0-Module0_26c0ea05"
         },
         {

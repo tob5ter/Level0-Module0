@@ -8,11 +8,16 @@ public class WorldDomination {
 	public static void main(String[] args) {
 		
 		// 1. Ask the user if they know how to write code.
+		String code = JOptionPane.showInputDialog("Can you write code?");
+
 
 		// 2. If they say "yes", tell them they will rule the world.
-		if(input.equals("Yes")){
+		if (code=="yes") {
+			JOptionPane.showMessageDialog(null,"you will rule the world");
 
-		}else{
+		} else {JOptionPane.showMessageDialog(null,"sign up for classes at The League");
+			
+		}
 			
 		}
 
